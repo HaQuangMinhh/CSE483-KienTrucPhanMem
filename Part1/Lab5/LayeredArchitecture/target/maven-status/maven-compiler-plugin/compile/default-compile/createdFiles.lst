@@ -1,0 +1,7 @@
+com\mycompany\layeredarchitecture\LayeredArchitecture.class
+com\mycompany\layeredarchitecture\Book.class
+com\mycompany\layeredarchitecture\Record.class
+com\mycompany\layeredarchitecture\Database.class
+com\mycompany\layeredarchitecture\Borrower.class
+com\mycompany\layeredarchitecture\LibraryManager.class
+com\mycompany\layeredarchitecture\LibraryUI.class
