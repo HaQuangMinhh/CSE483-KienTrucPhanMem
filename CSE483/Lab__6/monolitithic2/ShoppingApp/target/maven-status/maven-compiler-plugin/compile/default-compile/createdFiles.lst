@@ -1,0 +1,8 @@
+com\mycompany\shoppingapp\NotificationService.class
+com\mycompany\shoppingapp\DatabaseConnection.class
+com\mycompany\shoppingapp\OrderLineItem.class
+com\mycompany\shoppingapp\Order.class
+com\mycompany\shoppingapp\OrderService.class
+com\mycompany\shoppingapp\ShoppingApp.class
+com\mycompany\shoppingapp\ProductService.class
+com\mycompany\shoppingapp\InventoryService.class

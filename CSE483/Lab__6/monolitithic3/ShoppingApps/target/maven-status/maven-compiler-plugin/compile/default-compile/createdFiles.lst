@@ -1,0 +1,5 @@
+com\mycompany\shoppingapps\InventoryManagement.class
+com\mycompany\shoppingapps\ProductManagement.class
+com\mycompany\shoppingapps\ShoppingApps.class
+com\mycompany\shoppingapps\OrderManagement.class
+com\mycompany\shoppingapps\DatabaseUtils.class

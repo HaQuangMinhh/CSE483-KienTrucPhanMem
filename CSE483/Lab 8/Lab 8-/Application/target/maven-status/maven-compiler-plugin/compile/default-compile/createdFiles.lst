@@ -1,0 +1,6 @@
+com\mycompany\applicationmain\UserInterface.class
+com\mycompany\applicationmain\ApplicationMain.class
+com\mycompany\applicationmain\EncryptionModule.class
+com\mycompany\applicationmain\CompressionModule.class
+com\mycompany\applicationmain\FileWriterModule.class
+com\mycompany\applicationmain\FileWriterTest.class
